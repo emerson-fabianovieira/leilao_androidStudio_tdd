@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Leilao implements Serializable {
+public class andoiLeilao implements Serializable {
 
     private final String descricao;
     private final List<Lance> lances;
